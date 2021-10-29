@@ -15,5 +15,8 @@
 Дизайн-студия имени Слишком Известного Персонажа
 
 ```CSS
-selector.css("font-family: "Awesome", Arial, sans-serif;
-    color: red;")```
+selector.css {
+    font-family: "Awesome", Arial, sans-serif;
+    color: red;
+}
+```
